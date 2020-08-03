@@ -1,0 +1,41 @@
+nav{
+    font-size: 1.4rem;
+
+}
+.banner{
+    
+    background: url(./img/mountains.jpg);
+    min-height: 600px;
+}
+.overlay{
+
+background: rgba(50, 146, 166, 0.8);
+opacity: 0.97;
+min-height: 600px;
+}
+.btn{
+    font-size: 1.25rem;
+}
+.subscribe{
+    background:  rgba(50, 146, 166, 0.8);;
+    color: white;
+}
+.info{
+    margin: auto;
+    padding-top: 20px;
+}
+.emp{
+margin-top: -50px;
+}
+.employee:hover{
+    background: rgba(50, 146, 166, 0.8);
+    color: white;
+}
+.footer{
+    background: rgba(24, 125, 145, 0.8);
+    min-height: 160px;
+}
+nav{
+    opacity: 0.8;
+  
+}
